@@ -1,4 +1,4 @@
-This is the first assigment that I need to submit. Created a repository in GitHuB. Cloned the repository to my desktop and Visual Studio Code. Then pushed the project to GitHub.
+This is the first assigment that I need to submit. Created a repository in GitHub. Cloned the repository to my desktop and Visual Studio Code. Then pushed the project to GitHub.
 # 01 HTML CSS Git: Code Refactor
 
 ## Your Task
